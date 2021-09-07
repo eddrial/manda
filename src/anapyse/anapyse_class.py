@@ -3,11 +3,6 @@ Created on 7 Sep 2021
 
 @author: oqb
 '''
-from asn1crypto.tsp import MetaData
-from comtypes.tools.typedesc_base import Constructor
-from curses.has_key import system
-from scipy.ndimage import measurements
-from sqlalchemy.sql.expression import case
 
 class Measurement_Campaign(object):
     '''
